@@ -1,0 +1,20 @@
+body {
+  font-family: 'Segoe UI', Arial, sans-serif;
+  background-color: #eef1f6;
+}
+
+.game-card {
+  border: none;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+.game-card img {
+  height: 160px;
+  object-fit: cover;
+}
+
+.price {
+  font-weight: bold;
+  color: #6f42c1;
+  font-size: 18px;
+}
